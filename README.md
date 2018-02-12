@@ -9,6 +9,7 @@ __Duration__: two months
   1. [Slack](#slack)
   1. [Tutorials](#tutorials)
   1. [Resources](#resources)
+  1. [Courses](#courses)
 
 ## Schedule
 
@@ -48,7 +49,7 @@ Channels:
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Course Introduction | [Link]() | [Video]() | [Repo]() |
+| Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video]() | |
 | Intents & Lifecycle | [Link]() | [Video]() | [Repo]() |
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
 | Connect to Internet | [Link]() | [Video]() | [Repo]() |
@@ -61,8 +62,12 @@ Channels:
 ## Tutorials
 
 - [Getting started with Android development - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
+- [Android application and activity life cycle](http://www.vogella.com/tutorials/AndroidLifeCycle/article.html)
 - [Dimitar Danailov - git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
 - [15 Slack tips in 5 minutes](https://www.youtube.com/watch?v=gvJAcElFMUU)
+
+## Courses
+- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ## Resources
 
