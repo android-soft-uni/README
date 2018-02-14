@@ -11,7 +11,8 @@ __Duration__: two months
   1. [Slides](#slides)
   1. [Slack](#slack)
   1. [Tutorials](#tutorials)
-  1. [Resources](#resources) 1. [Courses](#courses)
+  1. [Resources](#resources)
+  1. [Courses](#courses)
   1. [License](#license)
 
 ## Links
