@@ -4,12 +4,19 @@ __Duration__: two months
 
 ## Table of Contents
 
+  1. [Links](#links)
   1. [Schedule](#schedule)
+  1. [Tutors](#tutors)
+  1. [Exam](#exam)
   1. [Slides](#slides)
   1. [Slack](#slack)
   1. [Tutorials](#tutorials)
-  1. [Resources](#resources)
-  1. [Courses](#courses)
+  1. [Resources](#resources) 1. [Courses](#courses)
+  1. [License](#license)
+
+## Links
+
+Facebook group: [Link](https://www.facebook.com/groups/AndroidDevelopmentFebruary2018/)
 
 ## Schedule
 
@@ -25,7 +32,22 @@ __Duration__: two months
 | Material Desing & Fragments | 28 Mar | Teodor Kostadinov | 18:30 | Experience |
 | Android Design Patterns | 4 Apr | Dimitar Danailov | 18:30 | Experience |
 
-## Final exam
+## Tutors
+
+### Dimitar Danailov
+
+I have been working at Software Industry since 2008. 
+I have experience with different technologies, frameworks and libraries.
+
+More about me:
+- [Stacoverflow](https://stackoverflow.com/users/609707/d-danailov)
+- [Github](https://github.com/dimitardanailov)
+
+### Teodor Kostadinov
+
+## Exam
+
+6 hours
 
 ## Slack
 
@@ -50,7 +72,7 @@ Channels:
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video]() | |
-| Intents & Lifecycle | [Link]() | [Video]() | [Repo]() |
+| Intents & Lifecycle | [Link](https://android-soft-uni.github.io/02-Intents-Lifecycle) | [Video]() | [Repo](https://github.com/android-soft-uni/02-Intents-Lifecycle-exercises) |
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
 | Connect to Internet | [Link]() | [Video]() | [Repo]() |
 | Recycle View | [Link]() | [Video]() | [Repo]() |
@@ -61,16 +83,36 @@ Channels:
 
 ## Tutorials
 
+### Slack
+- [15 Slack tips in 5 minutes](https://www.youtube.com/watch?v=gvJAcElFMUU)
+
+### Git
+- [Dimitar Danailov - git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
+
+### Android
 - [Getting started with Android development - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
 - [Android application and activity life cycle](http://www.vogella.com/tutorials/AndroidLifeCycle/article.html)
-- [Dimitar Danailov - git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
-- [15 Slack tips in 5 minutes](https://www.youtube.com/watch?v=gvJAcElFMUU)
+- [Platform Architecture](https://developer.android.com/guide/platform/index.html)
+- [Android versions](https://www.android.com/history)
+- [App Manifest](https://developer.android.com/guide/topics/manifest/manifest-intro.html)
+- [Run Apps on a Hardware Device](https://developer.android.com/studio/run/device.html#setting-up)
+- [Run Apps on the Android Emulator](https://developer.android.com/studio/run/emulator.html)
+- [Android Studio - The Official IDE for Android](https://developer.android.com/studio/index.html)
+- [Android and Android Studio: Getting Started](https://www.youtube.com/watch?v=Z98hXV9GmzY)
+- [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
+
 
 ## Courses
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+- [Udacity - Android Developer](https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 
 ## Resources
 
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 - [Udacity - Android Courses and Nanodegree Programs](https://eu.udacity.com/courses/android)
 - [Vogella](http://www.vogella.com/)
+
+## License
+
+This course (slides, examples, demos, videos, homework, etc) is licensed under the 
+["Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Internation"](https://creativecommons.org/licenses/by-nc-sa/4.0") license. 
