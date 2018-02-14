@@ -106,6 +106,10 @@ Channels:
 - [Android and Android Studio: Getting Started](https://www.youtube.com/watch?v=Z98hXV9GmzY)
 - [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
 
+### Android Studio
+
+- [Configure Android Studio](https://developer.android.com/studio/intro/studio-config.html)
+
 
 ## Courses
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
