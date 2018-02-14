@@ -19,6 +19,8 @@ __Duration__: two months
 
 Facebook group: [Link](https://www.facebook.com/groups/AndroidDevelopmentFebruary2018/)
 
+Github: [Link](https://github.com/android-soft-uni)
+
 ## Schedule
 
 | Lecture | Date | Tutor | Time | Hall |
