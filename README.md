@@ -54,6 +54,8 @@ More about me:
 
 Team space: [Android Soft Uni](https://android-soft-uni.slack.com/)
 
+Registration: [Create a new account](https://join.slack.com/t/android-soft-uni/shared_invite/enQtMzE0NTQwNTQyNjcyLWE2NjY5MzFlODYzYWU2ZmRmNDgxMDNjZDdhNmI1ZWMxOTdhYmE1ZjNkM2RhMTA4Y2VlYTBkNWUwNzExMDk1ODk)
+
 Channels:
 
 `#announcements` - This channel is for workspace-wide communication and announcements. All members are in this channel.
