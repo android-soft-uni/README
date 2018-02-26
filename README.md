@@ -106,6 +106,7 @@ Channels:
 - [Android Studio - The Official IDE for Android](https://developer.android.com/studio/index.html)
 - [Android and Android Studio: Getting Started](https://www.youtube.com/watch?v=Z98hXV9GmzY)
 - [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
+- [Logging]https://developer.android.com/reference/android/util/Log.html)
 
 ## Issues
 - [Updating Google play services in Emulator](https://stackoverflow.com/questions/35476182/updating-google-play-services-in-emulator)
