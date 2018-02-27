@@ -29,8 +29,8 @@ Github: [Link](https://github.com/android-soft-uni)
 | Course Introduction | 14 Feb | Dimitar Danailov | 18:30 | Experience | 
 | Intents & Lifecycle | 14 Feb | Dimitar Danailov | 18:30 | Experience |
 | Views & Layouts |  21 Feb | Teodor Kostadinov | 18:30 | Experience | 
-| Connect to Internet |  28 Feb | Dimitar Danailov | 18:30 | Experience |
-| Recycle View | 7 Mar | Teodor Kostadinov | 18:30 | Experience |
+| Recycle View | 28 Feb | Teodor Kostadinov | 18:30 | Experience |
+| Connect to Internet |  7 Mar | Dimitar Danailov | 18:30 | Experience |
 | Preferencies & SQLite | 14 Mar | Dimitar Danailov | 18:30 | Experience |
 | Background Tasks | 21 Mar | Teodor Kostadinov | 18:30 | Experience | 
 | Material Desing & Fragments | 28 Mar | Teodor Kostadinov | 18:30 | Experience |
@@ -106,7 +106,8 @@ Channels:
 - [Android Studio - The Official IDE for Android](https://developer.android.com/studio/index.html)
 - [Android and Android Studio: Getting Started](https://www.youtube.com/watch?v=Z98hXV9GmzY)
 - [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
-- [Logging]https://developer.android.com/reference/android/util/Log.html)
+- [Logging](https://developer.android.com/reference/android/util/Log.html)
+- [App Permissions](https://developer.android.com/guide/topics/permissions/index.html)
 
 ## Issues
 - [Updating Google play services in Emulator](https://stackoverflow.com/questions/35476182/updating-google-play-services-in-emulator)
