@@ -23,6 +23,8 @@ Facebook group: [Link](https://www.facebook.com/groups/AndroidDevelopmentFebruar
 
 Github: [Link](https://github.com/android-soft-uni)
 
+Web and Android Scholarship Program: [Link](https://www.udacity.com/google-scholarships)
+
 ## Schedule
 
 | Lecture | Date | Tutor | Time | Hall |
