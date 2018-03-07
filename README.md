@@ -14,6 +14,7 @@ __Duration__: Feb - Apr 2018
   1. [Issues](#issues)
   1. [Resources](#resources)
   1. [Courses](#courses)
+  1. [Repos](#repos)
   1. [License](#license)
 
 ## Links
@@ -80,7 +81,7 @@ Channels:
 | Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video]() | |
 | Intents & Lifecycle | [Link](https://android-soft-uni.github.io/02-Intents-Lifecycle) | [Video]() | [Repo](https://github.com/android-soft-uni/02-Intents-Lifecycle-exercises) |
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
-| Connect to Internet | [Link]() | [Video]() | [Repo]() |
+| Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video]() | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) |
 | Recycle View | [Link]() | [Video]() | [Repo]() |
 | Preferencies & SQLite | [Link]() | [Video]() | [Repo]() |
 | Background Tasks | [Link]() | [Video]() | [Repo]() |
@@ -108,6 +109,12 @@ Channels:
 - [The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle.html)
 - [Logging](https://developer.android.com/reference/android/util/Log.html)
 - [App Permissions](https://developer.android.com/guide/topics/permissions/index.html)
+- [Providing Resources](https://developer.android.com/guide/topics/resources/providing-resources.html)
+- [Drawable Resources](https://developer.android.com/guide/topics/resources/drawable-resource.html)
+- [AssetManager](https://developer.android.com/reference/android/content/res/AssetManager.html)
+- [String Resources](https://developer.android.com/guide/topics/resources/string-resource.html)
+- [Menus](https://developer.android.com/guide/topics/ui/menus.html)
+- [AsyncTask](https://developer.android.com/reference/android/os/AsyncTask.html)
 
 ## Issues
 - [Updating Google play services in Emulator](https://stackoverflow.com/questions/35476182/updating-google-play-services-in-emulator)
@@ -126,6 +133,11 @@ Channels:
 - [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
 - [Udacity - Android Courses and Nanodegree Programs](https://eu.udacity.com/courses/android)
 - [Vogella](http://www.vogella.com/)
+
+## Repos
+
+- [Udacity Sunshine](https://github.com/udacity/ud851-Sunshine)
+- [Udacity Exercises](https://github.com/udacity/ud851-Exercises)
 
 ## License
 
