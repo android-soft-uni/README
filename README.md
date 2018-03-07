@@ -83,7 +83,7 @@ Channels:
 | Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video]() | |
 | Intents & Lifecycle | [Link](https://android-soft-uni.github.io/02-Intents-Lifecycle) | [Video]() | [Repo](https://github.com/android-soft-uni/02-Intents-Lifecycle-exercises) |
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
-| Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video]() | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) [Sandwich](https://github.com/android-soft-uni/sandwich-club-starter-code) |
+| Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video]() | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) & [Sandwich](https://github.com/android-soft-uni/sandwich-club-starter-code) |
 | Recycle View | [Link]() | [Video]() | [Repo]() |
 | Preferencies & SQLite | [Link]() | [Video]() | [Repo]() |
 | Background Tasks | [Link]() | [Video]() | [Repo]() |
