@@ -129,6 +129,7 @@ Channels:
 ## Courses
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 - [Udacity - Android Developer](https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+- [Java Programming Basics | Udacity](https://eu.udacity.com/course/java-programming-basics--ud282)
 
 ## Resources
 
