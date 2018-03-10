@@ -74,8 +74,6 @@ Channels:
 
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 
-#introductions #livehelp #random  #resources 
-
 ## Presentations
 
 | Lecture | Link | Video | Repo |
@@ -97,6 +95,9 @@ Channels:
 
 ### Git
 - [Dimitar Danailov - git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
+
+### OOP
+- [Introducing object-oriented programming | lynda.com overview](https://www.youtube.com/watch?v=NUl8lcbeN2Y)
 
 ### Android
 - [Getting started with Android development - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
