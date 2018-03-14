@@ -83,7 +83,7 @@ Channels:
 | Views & Layouts | [Link]() | [Video]() | [Repo]() |
 | Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video]() | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) & [Sandwich](https://github.com/android-soft-uni/sandwich-club-starter-code) |
 | Recycle View | [Link]() | [Video]() | [Repo]() |
-| Preferencies & SQLite | [Link]() | [Video]() | [Repo]() |
+| Preferencies & SQLite | [Link](https://android-soft-uni.github.io/06-Preferencies-SQLite/) | [Video]() | [Repo](https://github.com/android-soft-uni/06-Preferencies-SQLite-exercises) & [Commets Counter](https://github.com/monyarm/AndroidHomework2)|
 | Background Tasks | [Link]() | [Video]() | [Repo]() |
 | Material Desing & Fragments | [Link]() | [Video]() | [Repo]() |
 | Android Design Patterns | [Link]() | [Video]() | [Repo]() |
@@ -98,6 +98,10 @@ Channels:
 
 ### OOP
 - [Introducing object-oriented programming | lynda.com overview](https://www.youtube.com/watch?v=NUl8lcbeN2Y)
+
+### SQLite
+- [https://sqliteonline.com/](https://sqliteonline.com/)
+- [https://www.codewars.com/](https://www.codewars.com/)
 
 ### Android
 - [Getting started with Android development - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
@@ -118,6 +122,8 @@ Channels:
 - [String Resources](https://developer.android.com/guide/topics/resources/string-resource.html)
 - [Menus](https://developer.android.com/guide/topics/ui/menus.html)
 - [AsyncTask](https://developer.android.com/reference/android/os/AsyncTask.html)
+- [Save Key-Value Data with SharedPreferences](https://developer.android.com/training/data-storage/shared-preferences.html)
+- [Save Data using SQLite](https://developer.android.com/training/data-storage/sqlite.html)
 
 ## Issues
 - [Updating Google play services in Emulator](https://stackoverflow.com/questions/35476182/updating-google-play-services-in-emulator)
