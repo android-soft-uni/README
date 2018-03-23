@@ -55,6 +55,7 @@ More about me:
 ## Exam
 
 6 hours
+A project - full-scale Android application, combining a lot of the course material
 
 ## Slack
 
@@ -78,13 +79,13 @@ Channels:
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video]() | |
-| Intents & Lifecycle | [Link](https://android-soft-uni.github.io/02-Intents-Lifecycle) | [Video]() | [Repo](https://github.com/android-soft-uni/02-Intents-Lifecycle-exercises) |
-| Views & Layouts | [Link]() | [Video]() | [Repo]() |
-| Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video]() | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) & [Sandwich](https://github.com/android-soft-uni/sandwich-club-starter-code) |
-| Recycle View | [Link]() | [Video]() | [Repo]() |
-| Preferencies & SQLite | [Link](https://android-soft-uni.github.io/06-Preferencies-SQLite/) | [Video]() | [Repo](https://github.com/android-soft-uni/06-Preferencies-SQLite-exercises) & [Comment Counter](https://github.com/monyarm/AndroidHomework2)|
-| Background Tasks | [Link]() | [Video]() | [Repo]() |
+| Course Introduction | [Link](https://android-soft-uni.github.io/01-Course-Introduction/) | [Video](https://youtu.be/NzDOST9303Q) | |
+| Intents & Lifecycle | [Link](https://android-soft-uni.github.io/02-Intents-Lifecycle) | [Video](https://youtu.be/kowSy03fGzA) | [Repo](https://github.com/android-soft-uni/02-Intents-Lifecycle-exercises) |
+| Views & Layouts | [Link](https://github.com/android-soft-uni/03-Views-Layouts) | [Video](https://youtu.be/xmgnrV78PA0) | [Repo]() |
+| Recycle View | [Link](https://github.com/android-soft-uni/05-Recycle-View) | [Video](https://youtu.be/m_D5525-wpM) | [Repo]() |
+| Connect to Internet | [Link](https://android-soft-uni.github.io/04-Connect-to-Internet) | [Video](https://youtu.be/ix3x6XWPuIE) | [Repo](https://github.com/android-soft-uni/04-Connect-to-Internet-exercises) & [Sandwich](https://github.com/android-soft-uni/sandwich-club-starter-code) |
+| Preferencies & SQLite | [Link](https://android-soft-uni.github.io/06-Preferencies-SQLite/) | [Video](https://youtu.be/WeYpZ58GXGg) | [Repo](https://github.com/android-soft-uni/06-Preferencies-SQLite-exercises) & [Comment Counter](https://github.com/monyarm/AndroidHomework2)|
+| Background Tasks | [Link](https://github.com/android-soft-uni/07-Background-Tasks) | [Video](https://youtu.be/rgWCv0pDW6o) | [Repo]() |
 | Material Desing & Fragments | [Link]() | [Video]() | [Repo]() |
 | Android Design Patterns | [Link]() | [Video]() | [Repo]() |
 
